@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "innovationwiki": {
+      "type": "sse",
+      "url": "http://127.0.0.1:8001/sse"
+    },
+    "innovationcode": {
+      "type": "sse",
+      "url": "http://127.0.0.1:9090/sse"
+    }
+  }
+}
